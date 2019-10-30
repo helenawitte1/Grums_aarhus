@@ -102,7 +102,6 @@ body
     font-weight: bold;
     color: white;
     font-size: 43px;
-    font-weight: ;
     width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -116,11 +115,10 @@ body
 
 
 .popupCloseButton {
-    background-color: none;
     cursor: pointer;
     display: inline-block;
     font-family: dosis;
-    font-weight: light;;
+    font-weight: 40px;
     position: absolute;
     top: -1px;
     right: -1px;
