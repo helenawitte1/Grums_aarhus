@@ -27,14 +27,14 @@ body
 .buygrums {
     width: 95%;
     margin-left: 2.5%;
-     background-color: red;
+     background-color: #369760;
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 15px;
+  font-size: 18px;
   cursor: pointer;
     font-family: dosis;
     margin-top: 15px;
