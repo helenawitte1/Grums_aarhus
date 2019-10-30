@@ -20,7 +20,7 @@ body
     top: 50%;
     padding: 0px 0px;
     background: black;
-    border: ;
+   
   
 }
 
@@ -52,7 +52,6 @@ body
 }
 .quest {
     width: 80%;
-  text-align: ; 
     margin-left: 2.5%;
     padding: 0;
     top: 0;
@@ -118,7 +117,7 @@ body
     cursor: pointer;
     display: inline-block;
     font-family: dosis;
-    font-weight: 40px;
+    font-weight: 300;
     position: absolute;
     top: -1px;
     right: -1px;
