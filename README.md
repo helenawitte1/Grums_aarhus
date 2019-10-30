@@ -1,2 +1,0 @@
-# Grums_aarhus
-Grums
