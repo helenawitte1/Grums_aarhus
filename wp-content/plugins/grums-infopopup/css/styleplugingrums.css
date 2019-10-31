@@ -1,0 +1,154 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    
+}
+
+.modal {
+    position: absolute;
+    z-index: 1;
+    margin: 30px;
+}
+
+.login-form {
+    width: 330px;
+    height: 395px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    padding: 0px 0px;
+    background: black;
+    border: ;
+  
+}
+
+.buygrums {
+    width: 95%;
+    margin-left: 2.5%;
+     background-color: #369760;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  cursor: pointer;
+    font-family: dosis;
+    margin-top: 15px;
+    margin-bottom: 30px; 
+    letter-spacing: 2px;
+    
+   
+}
+
+ .buygrums { transition: all .2s ease-in-out; }
+.buygrums:hover { transform: scale(1.1); }
+
+.flex {
+    display: flex;
+  
+    
+}
+.quest {
+    width: 80%;
+  text-align: ; 
+    margin-left: 2.5%;
+    padding: 0;
+    top: 0;
+    font-family: dosis;
+    letter-spacing: 2px;
+    color: white;
+    
+}
+
+.faqbtn {
+    background-color: white;
+  border: none;
+  color: black;
+  padding: 6px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+    margin-top: 16px; 
+    text-align: right;
+    font-family: dosis;
+    letter-spacing: 2px;
+}
+
+.faq {
+    width: 50%;
+   text-align: right; 
+    margin-right: 2.5%;
+    
+
+}
+
+
+
+
+
+
+#promotion-header
+{
+  
+}
+
+#promotion-header-title {
+    text-align: left;
+    font-family: josefin slab;
+    font-weight: bold;
+    color: white;
+    font-size: 43px;
+    font-weight: ;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px; 
+    line-height: 65px ;
+    
+}
+
+
+
+
+
+.popupCloseButton {
+    background-color: none;
+    cursor: pointer;
+    display: inline-block;
+    font-family: dosis;
+    font-weight: light;;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    font-size: 30px;
+    line-height: 24px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: white;
+}
+
+.error-msg 
+{
+    position: relative;
+    left: 225px;
+    top: 160px;
+    font-family: Montserrat, sans-serif;
+    color: red;
+    letter-spacing: 0.28em;
+    text-align: center;
+    display: none;
+}
+
+
+.error
+{
+    position: relative;
+    animation: shake 1s;
+}
